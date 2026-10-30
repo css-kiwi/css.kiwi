@@ -30,3 +30,19 @@ All things dyslexic css.wiki
   '                                                     .''        
                                                        '
 ```
+```
+
+               |
+               |
+              (_)
+             /' `\
+            |     |
+            `\   /'
+              `-'Y
+              Y
+                Y
+             Y
+                Y
+              Y
+                 Y
+```
