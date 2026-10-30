@@ -55,7 +55,7 @@ The dyslexic CSS.WIKI
  \__/         \__/       \__/     \__/             \__/
   L\_          L\_        L\_      L\_             _/I
 
-                                                         You following me?
+                                                         U following me?
   __           __         __       __               __
  /  ('>-      /  ('>-    /  ('>-  /  ('>-       -<')  \
  \__/         \__/       \__/     \__/             \__/
